@@ -69,6 +69,8 @@ plugins:
 
 theme: next
 
+since: 2015
+
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
