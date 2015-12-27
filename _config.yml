@@ -66,10 +66,19 @@ pagination_dir: page
 ## Themes: http://hexo.io/themes/
 plugins:
 - hexo-generator-cname
+- hexo-generator-feed
+- hexo-generator-sitemap
 
 theme: next
 
 since: 2015
+
+# hexo sitemap网站地图
+sitemap:
+path: sitemap.xml
+baidusitemap:
+path: baidusitemap.xml
+
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
