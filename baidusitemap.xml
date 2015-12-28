@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://donker.me/2015/12/29/%E5%81%9A%E4%B8%AAmac%E5%B0%8F%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2015-12-28T23:45:22.000Z</lastmod>
+    <lastmod>2015-12-28T23:47:34.000Z</lastmod>
     <data>
         <display>
         <title>做个mac小工具-用到binding</title>
@@ -13,6 +13,9 @@
         
          
            
+             
+              <breadCrumb title="osx" url="http://donker.me/categories/osx/"/>
+          
         </display>
     </data>
     </url>
