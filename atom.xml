@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-09-16T14:54:53.000Z</updated>
+  <updated>2016-09-17T15:24:54.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[advance]]></title>
+    <link href="http://donker.me/2016/09/17/advance/"/>
+    <id>http://donker.me/2016/09/17/advance/</id>
+    <published>2016-09-17T15:22:10.000Z</published>
+    <updated>2016-09-17T15:24:54.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://img.taopic.com/uploads/allimg/121226/234737-12122614162142.jpg" alt="advance"></p>
+<p>No choice, but advance. </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://img.taopic.com/uploads/allimg/121226/234737-12122614162142.jpg" alt="advance"></p>
+<p>No choice, but advance. </p>
+]]>
+    </summary>
+    
+      <category term="advance" scheme="http://donker.me/tags/advance/"/>
+    
+      <category term="choice" scheme="http://donker.me/tags/choice/"/>
+    
+      <category term="progress" scheme="http://donker.me/tags/progress/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Artisan]]></title>
