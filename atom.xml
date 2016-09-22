@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-09-21T15:39:21.000Z</updated>
+  <updated>2016-09-22T15:03:45.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Maching Learning]]></title>
+    <link href="http://donker.me/2016/09/22/machinglearning/"/>
+    <id>http://donker.me/2016/09/22/machinglearning/</id>
+    <published>2016-09-22T14:42:37.000Z</published>
+    <updated>2016-09-22T15:03:45.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/050/L639BP49YWT2.jpg" alt="Maching Learning"></p>
+<p>Have you heard machine learning?  It’s very popular now. Many people talk about it. It’s a very big changce to make a lots of money. But what’s that means? Is there an easy way to understand it?</p>
+<p>When we google it, we can find tons of stuff about AI(Artificial Intelligence) and machine learning is just a branch of it.  In short, As a computer fan says: machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/050/L639BP49YWT2.jpg" alt="Maching Learning"></p>
+<p>Have you heard machine lear]]>
+    </summary>
+    
+      <category term="ai" scheme="http://donker.me/tags/ai/"/>
+    
+      <category term="machine" scheme="http://donker.me/tags/machine/"/>
+    
+      <category term="machining learning" scheme="http://donker.me/tags/machining-learning/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Interview]]></title>
