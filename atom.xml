@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-09-25T15:17:32.000Z</updated>
+  <updated>2016-09-25T15:18:49.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -15,19 +15,26 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
+    <title><![CDATA[Work Experience]]></title>
     <link href="http://donker.me/2016/09/25/workexperience/"/>
     <id>http://donker.me/2016/09/25/workexperience/</id>
-    <published>2016-09-25T15:17:32.000Z</published>
-    <updated>2016-09-25T15:17:32.000Z</updated>
-    <content type="html"><![CDATA[<p>title: Work Experience<br>date: 2016-09-25 23:05:13<br>categories: daily<br>tags: [work, experience,interview]</p>
-<p><img src="http://difang.kaiwind.com/guangdong/jctp/201405/27/W020140527348578959088.jpg" alt="Experience"></p>
+    <published>2016-09-25T15:05:13.000Z</published>
+    <updated>2016-09-25T15:18:49.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://difang.kaiwind.com/guangdong/jctp/201405/27/W020140527348578959088.jpg" alt="Experience"></p>
 <p>We need to talk about our work experiences when we have a interview.  So what can we talk about ? Which is better way to describe your work experiences?  How to explain why you decide to leave pre company?</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>title: Work Experience<br>date: 2016-09-25 23:05:13<br>categories: daily<br>tags: [work, experience,interview]</p>
-<p><img src="http://di]]>
+    <![CDATA[<p><img src="http://difang.kaiwind.com/guangdong/jctp/201405/27/W020140527348578959088.jpg" alt="Experience"></p>
+<p>We need to talk about o]]>
     </summary>
+    
+      <category term="experience" scheme="http://donker.me/tags/experience/"/>
+    
+      <category term="interview" scheme="http://donker.me/tags/interview/"/>
+    
+      <category term="work" scheme="http://donker.me/tags/work/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
   </entry>
   
