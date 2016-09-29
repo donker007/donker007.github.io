@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-09-29T15:26:20.000Z</updated>
+  <updated>2016-09-29T15:31:32.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -19,11 +19,22 @@
     <link href="http://donker.me/2016/09/29/story/"/>
     <id>http://donker.me/2016/09/29/story/</id>
     <published>2016-09-29T15:26:20.000Z</published>
-    <updated>2016-09-29T15:26:20.000Z</updated>
-    <content type="html"></content>
+    <updated>2016-09-29T15:31:32.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/241/39T69NM2D7AM.jpg" alt="story"></p>
+<p>Everyone has a story!  You are the hero of your own story.</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/241/39T69NM2D7AM.jpg" alt="story"></p>
+<p>Everyone has a story!  You are the her]]>
     </summary>
+    
+      <category term="book" scheme="http://donker.me/tags/book/"/>
+    
+      <category term="life" scheme="http://donker.me/tags/life/"/>
+    
+      <category term="story" scheme="http://donker.me/tags/story/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
   </entry>
   

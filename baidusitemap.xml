@@ -5,14 +5,23 @@
     
   <url>
     <loc>http://donker.me/2016/09/29/story/</loc>
-    <lastmod>2016-09-29T15:26:20.000Z</lastmod>
+    <lastmod>2016-09-29T15:31:32.000Z</lastmod>
     <data>
         <display>
         <title>story</title>
         <pubTime>2016-09-29T15:26:20.000Z</pubTime>
         
+        <tag>book</tag>
+         
+        <tag>life</tag>
+         
+        <tag>story</tag>
+         
          
            
+             
+              <breadCrumb title="daily" url="http://donker.me/categories/daily/"/>
+          
         </display>
     </data>
     </url>
