@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-09-28T15:29:27.000Z</updated>
+  <updated>2016-09-29T15:26:20.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,19 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[story]]></title>
+    <link href="http://donker.me/2016/09/29/story/"/>
+    <id>http://donker.me/2016/09/29/story/</id>
+    <published>2016-09-29T15:26:20.000Z</published>
+    <updated>2016-09-29T15:26:20.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Time]]></title>
@@ -521,22 +534,6 @@
       <category term="运营" scheme="http://donker.me/tags/%E8%BF%90%E8%90%A5/"/>
     
       <category term="运营" scheme="http://donker.me/categories/%E8%BF%90%E8%90%A5/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[做个mac小工具-用到binding]]></title>
-    <link href="http://donker.me/2015/12/29/%E5%81%9A%E4%B8%AAmac%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
-    <id>http://donker.me/2015/12/29/做个mac小工具/</id>
-    <published>2015-12-28T23:35:25.000Z</published>
-    <updated>2015-12-28T23:47:34.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://www.33lc.com/article/UploadPic/2012-9/20129169191612876.jpg" alt="osx"><br><strong>为了偷懒，解放自己，写个小工具更新服务器上的预览图，这里用到了binding，推荐一篇很详细的文章</strong><br><a href="http://www.raywenderlich.com/21752/how-to-use-cocoa-bindings-and-core-data-in-a-mac-app" target="_blank" rel="external">How to Use Cocoa Bindings and Core Data in a Mac App</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://www.33lc.com/article/UploadPic/2012-9/20129169191612876.jpg" alt="osx"><br><strong>为了偷懒，解放自己，写个小工具更新服务器上的预览图，这里用到了bindin]]>
-    </summary>
-    
-      <category term="osx" scheme="http://donker.me/categories/osx/"/>
     
   </entry>
   
