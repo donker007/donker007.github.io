@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-10-03T15:16:28.000Z</updated>
+  <updated>2016-10-04T14:51:33.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Overturn]]></title>
+    <link href="http://donker.me/2016/10/04/Overturn/"/>
+    <id>http://donker.me/2016/10/04/Overturn/</id>
+    <published>2016-10-04T14:43:57.000Z</published>
+    <updated>2016-10-04T14:51:33.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/p/mmbiz_qlogo_cn/797042e4622b0f7286b9bf47448c69ca.jpg" alt="overturn"></p>
+<p>Overturn???</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://tc.sinaimg.cn/maxwidth.2048/tc.service.weibo.com/p/mmbiz_qlogo_cn/797042e4622b0f7286b9bf47448c69ca.jpg" alt="overturn"><]]>
+    </summary>
+    
+      <category term="overturn" scheme="http://donker.me/tags/overturn/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Meditate]]></title>
@@ -494,39 +513,6 @@
       <category term="physics" scheme="http://donker.me/tags/physics/"/>
     
       <category term="university" scheme="http://donker.me/tags/university/"/>
-    
-      <category term="daily" scheme="http://donker.me/categories/daily/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[a small accident]]></title>
-    <link href="http://donker.me/2016/09/14/accident/"/>
-    <id>http://donker.me/2016/09/14/accident/</id>
-    <published>2016-09-14T03:04:28.000Z</published>
-    <updated>2016-09-15T16:05:45.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/239/A32L5Z7Q1CBT.jpg" alt="lunky"></p>
-<p>There was a traffic accident this morning. Fortunately it’s a small accident. A boy has scraped by </p>
-<p>a tricycle electric car. The boy and his father got down from a overbrige and were passing a bicycle </p>
-<p>lane.  A middle-aged man drived a tricycle car very fast and just knocked the boy’s arm. The boy and his schoolbag were fall down on the road soon!  </p>
-<p>The little boy’s father was very angy and rage.  He instantly pulled down the driver from tricycle car after it stopped.  And slapped him hard across the face.  The driver looked like very self-abuse and didn’t hit back. </p>
-<p>When I got closed to see what happened to the boy, and found the boy’s arm got hurt. There are two red blocks on his left arm with a little blood. His mind looked normal and shouted “It’s too pain!”. </p>
-<p>I did know what happened next… But fortunately it’s a small accident. In short, all of us need to take care when we pass through road and it’s every one’s duty to comply with the rules when your are a rider or driver. </p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/239/A32L5Z7Q1CBT.jpg" alt="lunky"></p>
-<p>There was a traffic accident this morn]]>
-    </summary>
-    
-      <category term="accident" scheme="http://donker.me/tags/accident/"/>
-    
-      <category term="child" scheme="http://donker.me/tags/child/"/>
-    
-      <category term="father" scheme="http://donker.me/tags/father/"/>
-    
-      <category term="lunky" scheme="http://donker.me/tags/lunky/"/>
-    
-      <category term="traffic" scheme="http://donker.me/tags/traffic/"/>
     
       <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
