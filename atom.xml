@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-10-05T15:05:02.000Z</updated>
+  <updated>2016-10-06T14:49:36.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Rest]]></title>
+    <link href="http://donker.me/2016/10/06/Rest/"/>
+    <id>http://donker.me/2016/10/06/Rest/</id>
+    <published>2016-10-06T14:44:36.000Z</published>
+    <updated>2016-10-06T14:49:36.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://t0.fansimg.com/uploads2010/04/userid180379time20100408152040.jpg" alt="rest"></p>
+<p>Rest today, you need it! And I need a rest for a while!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="http://t0.fansimg.com/uploads2010/04/userid180379time20100408152040.jpg" alt="rest"></p>
+<p>Rest today, you need it! And I need]]>
+    </summary>
+    
+      <category term="relex" scheme="http://donker.me/tags/relex/"/>
+    
+      <category term="rest" scheme="http://donker.me/tags/rest/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[IOT]]></title>
@@ -467,40 +489,6 @@
       <category term="choice" scheme="http://donker.me/tags/choice/"/>
     
       <category term="progress" scheme="http://donker.me/tags/progress/"/>
-    
-      <category term="daily" scheme="http://donker.me/categories/daily/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Artisan]]></title>
-    <link href="http://donker.me/2016/09/16/artisan/"/>
-    <id>http://donker.me/2016/09/16/artisan/</id>
-    <published>2016-09-16T14:06:27.000Z</published>
-    <updated>2016-09-16T14:54:53.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://pic2015.5442.com:82/2016/0908/7/4.jpg" alt="Artisan"><br>Recently I have listened many times about artisan.  From 2008, the mobile internet has grew up about 8 years.And this industry now is in a steady growing period. It’s market has changed a lot and it didn’t like 5 years ago anymore.  It’s hard to make your product to get a good revenue right now.  Even through you have a product which looks like great. Because many requests of users are full filled enough today.<br>It become harder to make an AHA product nowdays. And all of huge companies have inveseted lots of money, peoples and other resoures on these products. So for the main sections of mobile products indeed mastered and controlled by these very huge “Monsters”. It looks like small companies have no chance or power to fight with them. </p>
-<p>Does it mean we need to discard our efforts, to say we’re failed? No! I believe that every one has their limited , also every company has it’s limited too. As far as we know, many of big companies can’t win at next technology revolution. But only a few companies and people will catch next technology revolustion chance. So what we can do right now?  Which is the right things we should follow? What’s the future? In fact, I dont know.But I’m sure artisan will be more and more valuable. So what we need to do just base on very simple rules: </p>
-<ol>
-<li>Turn ourself to artisans</li>
-<li>Invest in new technologies </li>
-<li>Keep running fast</li>
-</ol>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://pic2015.5442.com:82/2016/0908/7/4.jpg" alt="Artisan"><br>Recently I have listened many times about artisan.  From 2008, ]]>
-    </summary>
-    
-      <category term="artisan" scheme="http://donker.me/tags/artisan/"/>
-    
-      <category term="craftsman" scheme="http://donker.me/tags/craftsman/"/>
-    
-      <category term="focus" scheme="http://donker.me/tags/focus/"/>
-    
-      <category term="invest" scheme="http://donker.me/tags/invest/"/>
-    
-      <category term="revolution" scheme="http://donker.me/tags/revolution/"/>
-    
-      <category term="technology" scheme="http://donker.me/tags/technology/"/>
     
       <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
