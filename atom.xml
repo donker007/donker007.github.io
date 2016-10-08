@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-10-08T15:26:44.000Z</updated>
+  <updated>2016-10-08T15:32:14.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -15,15 +15,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[caffe]]></title>
+    <title><![CDATA[Caffe]]></title>
     <link href="http://donker.me/2016/10/08/caffe/"/>
     <id>http://donker.me/2016/10/08/caffe/</id>
     <published>2016-10-08T15:26:43.000Z</published>
-    <updated>2016-10-08T15:26:44.000Z</updated>
-    <content type="html"></content>
+    <updated>2016-10-08T15:32:14.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="http://img2.imgtn.bdimg.com/it/u=1363713548,4114995226&amp;fm=21&amp;gp=0.jpg" alt="caffe"></p>
+<p>Everything gets better with caffe.</p>
+]]></content>
     <summary type="html">
-    
+    <![CDATA[<p><img src="http://img2.imgtn.bdimg.com/it/u=1363713548,4114995226&amp;fm=21&amp;gp=0.jpg" alt="caffe"></p>
+<p>Everything gets better with ]]>
     </summary>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
   </entry>
   
