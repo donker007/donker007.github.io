@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-10-11T15:24:00.000Z</updated>
+  <updated>2016-10-12T15:55:26.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,36 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[ml-001]]></title>
+    <link href="http://donker.me/2016/10/12/ml-001/"/>
+    <id>http://donker.me/2016/10/12/ml-001/</id>
+    <published>2016-10-12T15:46:22.000Z</published>
+    <updated>2016-10-12T15:55:26.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://drscdn.500px.org/photo/2208755/m%3D900/51d6dcb413689922dab0286e054f784e" alt="ML"></p>
+<p>Machine Learning examples: </p>
+<ol>
+<li>Data Mining </li>
+<li>Applications can’t program by hand </li>
+<li>Self-customizing programs</li>
+<li>Understanding human learning</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://drscdn.500px.org/photo/2208755/m%3D900/51d6dcb413689922dab0286e054f784e" alt="ML"></p>
+<p>Machine Learning examples: </]]>
+    </summary>
+    
+      <category term="ai" scheme="http://donker.me/tags/ai/"/>
+    
+      <category term="learning" scheme="http://donker.me/tags/learning/"/>
+    
+      <category term="machine" scheme="http://donker.me/tags/machine/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[What is machine learning?]]></title>
@@ -442,31 +472,6 @@
       <category term="future" scheme="http://donker.me/tags/future/"/>
     
       <category term="what" scheme="http://donker.me/tags/what/"/>
-    
-      <category term="daily" scheme="http://donker.me/categories/daily/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Maching Learning]]></title>
-    <link href="http://donker.me/2016/09/22/machinglearning/"/>
-    <id>http://donker.me/2016/09/22/machinglearning/</id>
-    <published>2016-09-22T14:42:37.000Z</published>
-    <updated>2016-09-22T15:03:45.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/050/L639BP49YWT2.jpg" alt="Maching Learning"></p>
-<p>Have you heard machine learning?  It’s very popular now. Many people talk about it. It’s a very big changce to make a lots of money. But what’s that means? Is there an easy way to understand it?</p>
-<p>When we google it, we can find tons of stuff about AI(Artificial Intelligence) and machine learning is just a branch of it.  In short, As a computer fan says: machine learning is the idea that there are generic algorithms that can tell you something interesting about a set of data without you having to write any custom code specific to the problem. Instead of writing code, you feed data to the generic algorithm and it builds its own logic based on the data.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://image.tianjimedia.com/uploadImages/2013/050/L639BP49YWT2.jpg" alt="Maching Learning"></p>
-<p>Have you heard machine lear]]>
-    </summary>
-    
-      <category term="ai" scheme="http://donker.me/tags/ai/"/>
-    
-      <category term="machine" scheme="http://donker.me/tags/machine/"/>
-    
-      <category term="machining learning" scheme="http://donker.me/tags/machining-learning/"/>
     
       <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
