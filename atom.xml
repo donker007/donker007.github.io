@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-10-12T15:56:18.000Z</updated>
+  <updated>2016-10-16T15:41:12.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Machine Learning 2 - Matlab & Octave]]></title>
+    <link href="http://donker.me/2016/10/16/ML2/"/>
+    <id>http://donker.me/2016/10/16/ML2/</id>
+    <published>2016-10-16T15:18:03.000Z</published>
+    <updated>2016-10-16T15:41:12.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://drscdn.500px.org/photo/177797439/q%3D80_m%3D2000/68d8cb571d73e2251ac0eeca0bb0abff" alt="AI"></p>
+<p>Prof. Ng explained that students come up to speed faster with Matlab/Octave. So in order to actually to<br>understand the hood what happends in ML algorithms, we’d better choose Matlab/Octave to start our machine learning. It remind me that we have used matlab when I was on my uiniversity. </p>
+<p>To learn machine learning, we should meet following requirements: </p>
+<ol>
+<li>Basic computer science principles and skills and computer program experience. </li>
+<li>Familiarity with the basic probablity theory. </li>
+<li>Familiarity with the basic linear algebra.</li>
+</ol>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://drscdn.500px.org/photo/177797439/q%3D80_m%3D2000/68d8cb571d73e2251ac0eeca0bb0abff" alt="AI"></p>
+<p>Prof. Ng explained ]]>
+    </summary>
+    
+      <category term="ai" scheme="http://donker.me/tags/ai/"/>
+    
+      <category term="machine learning" scheme="http://donker.me/tags/machine-learning/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Machine Learning - 001]]></title>
@@ -449,29 +477,6 @@
       <category term="bless" scheme="http://donker.me/tags/bless/"/>
     
       <category term="bless you" scheme="http://donker.me/tags/bless-you/"/>
-    
-      <category term="daily" scheme="http://donker.me/categories/daily/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[what]]></title>
-    <link href="http://donker.me/2016/09/23/what/"/>
-    <id>http://donker.me/2016/09/23/what/</id>
-    <published>2016-09-23T15:09:12.000Z</published>
-    <updated>2016-09-23T15:13:23.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://www.bz55.com/uploads/allimg/150612/139-150612164608.jpg" alt="future"></p>
-<p>Next? What? Future? Deepmind!</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://www.bz55.com/uploads/allimg/150612/139-150612164608.jpg" alt="future"></p>
-<p>Next? What? Future? Deepmind!</p>
-]]>
-    </summary>
-    
-      <category term="future" scheme="http://donker.me/tags/future/"/>
-    
-      <category term="what" scheme="http://donker.me/tags/what/"/>
     
       <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
