@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-10-16T15:46:28.000Z</updated>
+  <updated>2016-10-17T14:56:44.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -13,6 +13,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Machine Learning - 003]]></title>
+    <link href="http://donker.me/2016/10/17/ML-003/"/>
+    <id>http://donker.me/2016/10/17/ML-003/</id>
+    <published>2016-10-17T14:51:51.000Z</published>
+    <updated>2016-10-17T14:56:44.000Z</updated>
+    <content type="html"><![CDATA[<p><img src="https://drscdn.500px.org/photo/178010079/q%3D80_m%3D2000/97d8c616cbcc1c004cf429aca78a1b3d" alt="Machine learning"></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p><img src="https://drscdn.500px.org/photo/178010079/q%3D80_m%3D2000/97d8c616cbcc1c004cf429aca78a1b3d" alt="Machine learning"></p>
+]]>
+    </summary>
+    
+      <category term="ai" scheme="http://donker.me/tags/ai/"/>
+    
+      <category term="machine learning" scheme="http://donker.me/tags/machine-learning/"/>
+    
+      <category term="daily" scheme="http://donker.me/categories/daily/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[Machine Learning 002 - Matlab & Octave]]></title>
@@ -457,26 +478,6 @@
       <category term="interview" scheme="http://donker.me/tags/interview/"/>
     
       <category term="work" scheme="http://donker.me/tags/work/"/>
-    
-      <category term="daily" scheme="http://donker.me/categories/daily/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[bless]]></title>
-    <link href="http://donker.me/2016/09/24/bless/"/>
-    <id>http://donker.me/2016/09/24/bless/</id>
-    <published>2016-09-24T14:48:42.000Z</published>
-    <updated>2016-09-24T15:17:39.000Z</updated>
-    <content type="html"><![CDATA[<p><img src="http://bbs.crsky.com/1236983883/Mon_1207/25_187069_7e6db59d66037b8.jpg" alt="Bless you"><br>Foreigner will always say “Bless you” after someone sneeze or cough. It’s mean that god bless you. Why do they say it?  It’s started from hundreds of years ago. There was a plague in Europe which caused million of people to dead.  It’s also called The Black Death.  If people got a plague,  they will often sneeze or cough. And it’s extremely terrible disease when people infected by this plague. So people always said “God bless you” to pray and wished god can protect them from death.</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p><img src="http://bbs.crsky.com/1236983883/Mon_1207/25_187069_7e6db59d66037b8.jpg" alt="Bless you"><br>Foreigner will always say “Bless yo]]>
-    </summary>
-    
-      <category term="bless" scheme="http://donker.me/tags/bless/"/>
-    
-      <category term="bless you" scheme="http://donker.me/tags/bless-you/"/>
     
       <category term="daily" scheme="http://donker.me/categories/daily/"/>
     
