@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://donker.me/"/>
-  <updated>2016-11-02T15:49:49.000Z</updated>
+  <updated>2016-11-02T16:12:54.000Z</updated>
   <id>http://donker.me/</id>
   
   <author>
@@ -19,12 +19,13 @@
     <link href="http://donker.me/2016/11/02/ML004/"/>
     <id>http://donker.me/2016/11/02/ML004/</id>
     <published>2016-11-02T15:35:17.000Z</published>
-    <updated>2016-11-02T15:49:49.000Z</updated>
+    <updated>2016-11-02T16:12:54.000Z</updated>
     <content type="html"><![CDATA[<p><img src="https://drscdn.500px.org/photo/180894527/q%3D80_m%3D2000_k%3D1/cd181c7752f8edc8fe03a34abf83453e" alt="ai"></p>
+<p>Linear regression with one variable.</p>
 ]]></content>
     <summary type="html">
     <![CDATA[<p><img src="https://drscdn.500px.org/photo/180894527/q%3D80_m%3D2000_k%3D1/cd181c7752f8edc8fe03a34abf83453e" alt="ai"></p>
-]]>
+<p>Linear regres]]>
     </summary>
     
       <category term="ai" scheme="http://donker.me/tags/ai/"/>
